@@ -1,0 +1,16 @@
+body {
+    background-image: url('fondo.avif');
+    background-attachment: scroll;
+    background-size: cover;
+    
+}
+.divClass{
+   
+    color: aquamarine;
+    background-color: hsl(14, 100%, 53%);    
+}
+
+.thirdDiv{
+    padding: 50px;
+    border: 1cm rgb(80, 255, 100);
+}
