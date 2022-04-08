@@ -1,0 +1,3 @@
+
+Array: Conjunto de datos almacenados en un elemento a los cuales se pueden acceder mediante un índice. Hay métodos ya codificados en JS
+con los cuales uno puede manipular los datos dentro del elemento de la manera que uno necesite, por ejemplo .push .pop .filter, etc.

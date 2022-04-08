@@ -1,0 +1,14 @@
+
+    Variables: es el recurso mediante el cual podemos almacenar algún dato en JS. Una variable asigna un espacio de memoria en el programa
+en el cuál podemos almacenar diferentes tipos de datos, como texto, números o algunos otros parámetros que sirven al lenguaje.
+
+    Strings : es la forma en la cuál podemos almacenar texto, string es una "cadena de caracteres, los cuales pueden formar un texto o palabra"
+se caracteriza por estar siempre entre "" (comillas).
+    
+    Funciones (argumentos, return): las funciones sirven para almacenar un conjunto de instrucciones bajo un nombre específico el cuál
+podemos usar como referencia luego para llamarla, o mejor dicho hacer que realice su función en algun momento deseado en el programa.
+    
+    Declaraciones if: Son declaraciones que ejecutaran determinada instrucción si aprueba cierta condición que uno establece.
+    
+    Valores booleanos (true, false): Un valor Booleano representa un valor de verdad, puede ser verdadero o falso, asemejable al que encontramos
+en el lenguaje binario como 0 y 1.

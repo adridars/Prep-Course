@@ -1,0 +1,11 @@
+
+Sentencia `for`: es una sentencia que se compone de 3 partes, una declaración de una variable inicial, una declaración que será la evaluación por
+medio de la cual se detenga el bucle y una parte que incrementa una variable. Basicamente sería que la instrucción que uno declara entre {}
+ se ejecutará hasta que se cumpla una condición entre (). A la vez cada vez que se ejecuta una variable de comparación se actualiza para
+en algún momento terminar el bucle.
+
+`&&`, `||`, `!`: Operadores lógicos. && operador AND. Devuelve TRUE, solamente cuando todas las condiciones juntas son Verdaderas.
+El conjunto de condiciones siempre es leido por el programa de izq a der.
+	|| Operador OR. Devuelve TRUE, cuando alguna de sus condiciones es Verdadera. Solamente devuelve FALSE cuando todas ellas lo son.
+	! Operador NOT. Devuelve el valor Boleeano contraria la a condición o a lo que pase. Si el resultado de la condición es true,
+mediante NOT devolverá un false.
